@@ -1,2 +1,1 @@
-# PrepCourseFNC01
-1st Repository - FNC01
+Estes es una prueba para crear un repositorio
